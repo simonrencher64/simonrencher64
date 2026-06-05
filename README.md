@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Simon. I helped build a vr app that allows the user to explore the SBHS campus from their browswer.
+![My logo](rencher_simon_logo_color.png)
 <!--
 **simonrencher64/simonrencher64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
